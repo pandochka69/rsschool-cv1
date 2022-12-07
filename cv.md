@@ -13,7 +13,7 @@ I have no commercial experience, but I have favorite projects that were created 
 * HTML5
 * CSS3
 * JavaScript (ES5, ES6)
-* Git, GitHub
+* Git,GitHub
 * VS Code
 
 ## Code example
